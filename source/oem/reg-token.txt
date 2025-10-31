@@ -1,0 +1,4 @@
+Paste here your SERVER REGISTRATION TOKEN from Kasm
+
+Kasm Admin -> Infraestructure -> Servers -> Servers -> (Choose your ) -> Registation  Token
+
