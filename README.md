@@ -23,7 +23,18 @@ In this example we used a PC with fixed IP address 192.168.0.31, you need modify
  ./install.sh 
 ```
 
-1.- Create a new Server RDP on your Kasm. Ensure the "Kasm Desktop Service Installed" is activated.
+1.- Create a new Server RDP on your Kasm.
+
+ - Frindly Name: Windows 11
+ - Deployment Zone: default
+ - Kasm Desktop Service Installed: Activated
+ - Connection Type: RDP
+ - IP/Hostname: 192.168.0.31 (put here your Server IP Address)
+ - Port: 3390 (Change default Port 3389 to 3390 in order to prevent problems with the same kasmweb/rdp-gateway:1.18.0 docker container service)
+ - Connection Credential Type: Static Credentials
+ - Connection Username: user
+ - Connection Password: pass
+ - Max Simultaneous Sessions: 4
 
 2.- Obtain the Registration Token and past the token in the file /source/oem/reg-token.txt
 
