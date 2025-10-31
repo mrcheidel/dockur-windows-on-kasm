@@ -31,6 +31,8 @@ In this example we used a PC with fixed IP address 192.168.0.31, you need modify
 
 3.- Install the windows 11 using the ./install.sh script (you can see the progress using a web browser)
 
+![Step 3](/assets/image-3.png?raw=true "3")
+
 4.- Create a new Kasm Windows Workspace based on the RDP Server create in the Step 1.
  - Workspace Type: Server
  - Friendly name: Windows 11
