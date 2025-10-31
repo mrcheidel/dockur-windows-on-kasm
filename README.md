@@ -24,7 +24,9 @@ In this example we used a PC with fixed IP address 192.168.0.31, you need modify
  - Server: The server name from the step 1
  - RDP Client Options: Web navive client
 
-5.- Launch a new Windows 11 Session :D
+5.- Launch a new Windows 11 Session :)
+
+![Step 5 ](/assets/image-2.png?raw=true "Step 5")
 
 ## References:
 
