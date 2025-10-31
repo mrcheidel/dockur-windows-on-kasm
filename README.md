@@ -31,13 +31,15 @@ In this example we used a PC with fixed IP address 192.168.0.31, you need modify
 
 3.- Install the windows 11 using the ./install.sh script (you can see the progress using a web browser)
 
-![Step 3](/assets/image-3.png?raw=true "3")
+![Step 3](/assets/image-3.png?raw=true "Step 3")
 
 4.- Create a new Kasm Windows Workspace based on the RDP Server create in the Step 1.
  - Workspace Type: Server
  - Friendly name: Windows 11
  - Server: The server name from the step 1
  - RDP Client Options: Web navive client
+
+![Step 4](/assets/image-4.png?raw=true "Step 4")
 
 5.- Launch a new Windows 11 Session :)
 
@@ -48,3 +50,8 @@ In this example we used a PC with fixed IP address 192.168.0.31, you need modify
 https://github.com/dockur/windows
 
 https://kasm.com/
+
+## Author:
+Claudio Heidel 
+
+https://linkedin.com/in/mrcheidel/
